@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/daily-interview-pro-python.iml" filepath="$PROJECT_DIR$/.idea/daily-interview-pro-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyleetcode.iml" filepath="$PROJECT_DIR$/.idea/pyleetcode.iml" />
     </modules>
   </component>
 </project>
