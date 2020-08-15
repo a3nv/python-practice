@@ -6,7 +6,7 @@ def find_kth_largest(arr, k):
     :return:
     """
     arr.sort()
-    return arr[len(arr) - 3]
+    return arr[-k]
 
 
 if __name__ == "__main__":
