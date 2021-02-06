@@ -1,29 +1,8 @@
-# README #
+# Practicing some problems using python 3 language #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Leetcode problems
 
-### What is this repository for? ###
+### Medium difficulties
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+[384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+[Solution](https://github.com/a3nv/python-practice/tree/master/src/com/competetive/practice/leetcode/solutions/medium/M384ShuffleAnArray.py)
